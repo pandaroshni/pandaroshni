@@ -20,9 +20,10 @@ Currently working at Exponentia.ai, I focus on:
 
 🤖 Exploring and applying cutting-edge Generative AI tools
 
-📚 Continuously learning and working with emerging AI/ML technologies
+📚 Continuously learning and working with emerging AI/ML technologies  
 
-🌍 I’m eager to contribute to impactful AI/ML/GenAI projects across domains like finance, healthcare, and beyond!
+This journey is giving me the opportunity to explore a lot, learn a lot, and grow both technically and personally.
+
 ---
 
 ## 🌐 Connect with Me
