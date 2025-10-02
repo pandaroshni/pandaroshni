@@ -11,15 +11,18 @@
 
 ---
 
-Driven by a deep passion for unlocking the potential of **Data Science** and **Generative AI**, I’m constantly exploring innovative ways to solve real-world problems.  
-Currently working as a **Quantitative Analyst Intern in the Finance sector**, I specialize in:
-- 📊 Creating data-driven trading strategies  
-- 🤖 Building intelligent chatbots using LLMs & GenAI  
-- 📈 Analyzing complex data to uncover insights  
-- 🎯 Designing recommendation systems to personalize user experiences  
+Driven by a deep passion for unlocking the potential of Data Science and Generative AI, I’m constantly exploring innovative ways to solve real-world problems.
+Currently working at Exponentia.ai, I focus on:
 
-🌍 I'm eager to contribute to impactful AI/ML/GenAI projects across domains like **finance**, **healthcare**, and **beyond**!
+⚡ Building and experimenting with LangGraph & LangChain frameworks
 
+☁️ Leveraging Azure Databricks for scalable data and AI solutions
+
+🤖 Exploring and applying cutting-edge Generative AI tools
+
+📚 Continuously learning and working with emerging AI/ML technologies
+
+🌍 I’m eager to contribute to impactful AI/ML/GenAI projects across domains like finance, healthcare, and beyond!
 ---
 
 ## 🌐 Connect with Me
